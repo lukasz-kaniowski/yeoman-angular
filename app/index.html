@@ -22,9 +22,33 @@
             <script src="scripts/vendor/es5-shim.min.js"></script>
             <script src="scripts/vendor/json3.min.js"></script>
         <![endif]-->
+        <header>
+        <nav class="navbar container">
+            <div class="navbar-inner">
+                <a href="#" class="brand">Brand</a>
+            <ul class="nav">
+                <li><a href="/#/tasks">Tasks</a></li>
+            </ul>
+                </div>
+        </nav>
 
+            <div class="container">
+                <div class="row">
+                <div class="span6">
+                    <h1>
+                        This is best project
+                    </h1>
+                </div>
+                <div class="span6">
+                    Logo placeholder
+                </div>
+            </div></div>
+        </header>
         <!-- Add your site or application content here -->
-        <div class="container" ng-view></div>
+        <div class="container">
+            <div class="row-fluid" ng-view>
+            </div>
+        </div>
 
         <script src="scripts/vendor/angular.js"></script>
 

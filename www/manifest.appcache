@@ -1,0 +1,43 @@
+# Error: Unknown provider: aProvider <- a
+    at http://localhost:3501/scripts/vendor/d10639ae.angular.js:2627
+    at getService (http://localhost:3501/scripts/vendor/d10639ae.angular.js:2755)
+    at http://localhost:3501/scripts/vendor/d10639ae.angular.js:2632
+    at getService (http://localhost:3501/scripts/vendor/d10639ae.angular.js:2755)
+    at invoke (http://localhost:3501/scripts/vendor/d10639ae.angular.js:2773)
+    at instantiate (http://localhost:3501/scripts/vendor/d10639ae.angular.js:2805)
+    at http://localhost:3501/scripts/vendor/d10639ae.angular.js:4620
+    at update (http://localhost:3501/scripts/vendor/d10639ae.angular.js:13692)
+    at http://localhost:3501/scripts/vendor/d10639ae.angular.js:8002 (undefined, #undefined)
+CACHE MANIFEST
+
+# Time: Sun Jan 13 2013 23:47:02 GMT+0000 (GMT)
+# This manifest was created by confess.js, http://github.com/jamesgpearce/confess
+#
+# Retrieved URL: http://localhost:3501/#/
+# User-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#
+# Config:
+#  task: appcache
+#  userAgent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.12 Safari/535.11
+#  wait: 0
+#  consolePrefix: #
+#  verbose: true
+#  appcache:
+#   urlsFromDocument: true
+#   urlsFromRequests: false
+#   cacheFilter: .*
+#   networkFilter: null
+#  url: http://localhost:3501
+#  configFile: /usr/local/share/npm/lib/node_modules/yeoman/lib/support/confess.json
+
+CACHE:
+http://localhost:3501/app/images/glyphicons-halflings-white.png
+http://localhost:3501/app/images/glyphicons-halflings.png
+http://localhost:3501/img/bg.png
+http://www.google-analytics.com/ga.js
+scripts/c3762c64.scripts.js
+scripts/vendor/d10639ae.angular.js
+styles/2214cb2c.main.css
+
+NETWORK:
+*

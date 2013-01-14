@@ -1,3 +1,5 @@
 temp
 dist
 .sass-cache/
+www/styles/*.scss
+www/styles/compass_twitter_bootstrap/

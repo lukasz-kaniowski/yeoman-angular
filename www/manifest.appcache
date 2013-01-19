@@ -10,7 +10,7 @@
     at http://localhost:3501/scripts/vendor/d10639ae.angular.js:8002 (undefined, #undefined)
 CACHE MANIFEST
 
-# Time: Sun Jan 13 2013 23:47:02 GMT+0000 (GMT)
+# Time: Sat Jan 19 2013 00:22:46 GMT+0000 (GMT)
 # This manifest was created by confess.js, http://github.com/jamesgpearce/confess
 #
 # Retrieved URL: http://localhost:3501/#/
@@ -31,6 +31,7 @@ CACHE MANIFEST
 #  configFile: /usr/local/share/npm/lib/node_modules/yeoman/lib/support/confess.json
 
 CACHE:
+cordova-2.3.0.js
 http://localhost:3501/app/images/glyphicons-halflings-white.png
 http://localhost:3501/app/images/glyphicons-halflings.png
 http://localhost:3501/img/bg.png
